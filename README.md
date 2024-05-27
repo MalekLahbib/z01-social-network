@@ -67,12 +67,10 @@ de vos remarques.
 
 ## Licence
 
-Ce projet est une exercice d'école et libre de droit sans aucune licence particulière.
+Ce projet est un exercice d'école et libre de droit sans aucune licence particulière.
 
 ---
 
 **Auteurs** : 
-    Quedeville Tony (Frontend React + server node) 
+    Quedeville Tony + Malek Lahbib (Frontend React + server node) 
     Alann Schnebelen (Backend server Go + BDD Sqlite)
-
-**Contact** : tonyquedeville@gmail.com
